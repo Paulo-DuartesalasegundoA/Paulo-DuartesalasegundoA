@@ -1,4 +1,9 @@
-## Hi there 👋
+## Bem Vindo ao meu perfil 👋
+* Sou o Paulo
+* Estudo programação na escola
+* Utiizo esse espaço para compartilhar os mes projetos
+
+* Meu contato: 00001074383023sp@al.educacao.sp.gov.br
 
 <!--
 **Paulo-DuartesalasegundoA/Paulo-DuartesalasegundoA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
